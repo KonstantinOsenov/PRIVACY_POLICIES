@@ -30,4 +30,3 @@ At any time, no User Provided Data (such as Distance or Time) will be shared, pr
 
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at: 
 number37.net@gmail.com.
-The "Android" name, the Android logo, the "Google Play" brand, and other Google trademarks, are property of Google LLC and not part of the assets available through the Android Open Source Project.
