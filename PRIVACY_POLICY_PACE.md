@@ -20,8 +20,6 @@ The Application does not collect precise information about the location of your 
 **Changes**
 
 This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy at "https://github.com/KonstantinOsenov/PRIVACY_POLICIES/blob/main/PRIVACY_POLICY_PACE.md".
-Please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches (e.g., a zero-day attack targeting mobile Operating System – OS).
-You are advised to review this Privacy Policy periodically for any changes, as continued use is deemed approval of all changes. Changes to this Privacy Policy are effective when they are posted on this page. 
 
 **Your Consent**
 
